@@ -1,4 +1,4 @@
-<h2>Example: List if a server has incompatible drivers as well the supported versions from the HCL</h2>
+<h2>Example: Use API to determine if a server has incompatible drivers as well the supported versions from the HCL</h2>
 
 <h2>Pre-reqs:</h2>
 
