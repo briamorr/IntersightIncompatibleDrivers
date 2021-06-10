@@ -52,3 +52,8 @@ Example Output:
 >1.0.35.0-1OEM
 
 >1.0.35.0-1OEM.670.0.0.8169922
+
+
+<h2> Visualization From Intersight</h2>
+<img src="Intesight UI.png"></img>
+                                     
